@@ -1,0 +1,12 @@
+2025-06-21 20:52:02,683 - __main__ - WARNING - Config file config.yaml not found, using defaults
+2025-06-21 20:52:02,683 - __main__ - INFO - Configuration loaded
+2025-06-21 20:52:02,700 - __main__ - INFO - MediaPipe initialized successfully
+2025-06-21 20:52:02,701 - __main__ - INFO - HeadPoseDetector initialized successfully
+2025-06-21 20:53:23,988 - __main__ - INFO - Camera configured: 640x480 @ 30.0fps
+2025-06-21 20:53:28,847 - __main__ - INFO - Calibration complete: P=-170.18°, Y=0.90°, R=3.33°
+2025-06-21 20:53:28,993 - __main__ - INFO - Performance: 0.7fps, 9.7ms avg, Calibrated: True
+2025-06-21 20:53:34,008 - __main__ - INFO - Performance: 1.1fps, 8.8ms avg, Calibrated: True
+2025-06-21 20:53:39,063 - __main__ - INFO - Performance: 1.0fps, 8.9ms avg, Calibrated: True
+2025-06-21 20:53:44,130 - __main__ - INFO - Performance: 1.0fps, 9.2ms avg, Calibrated: True
+2025-06-21 20:53:49,196 - __main__ - INFO - Performance: 0.9fps, 8.8ms avg, Calibrated: True
+2025-06-21 20:53:54,264 - __main__ - INFO - Performance: 0.9fps, 8.7ms avg, Calibrated: True
