@@ -1,5 +1,4 @@
 # yolo_project
-# YOLO Exam Proctoring Project
 
 This repository contains Python prototypes for webcam-based exam proctoring using OpenCV, MediaPipe, and YOLO models. The scripts detect different kinds of potentially suspicious behavior such as head movement, eye/gaze movement, body movement, phone presence, and posture changes.
 
